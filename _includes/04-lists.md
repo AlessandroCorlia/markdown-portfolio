@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Juventus
+2. Italy
+3. School subject
+   1. IT
+   2. telecommunications
